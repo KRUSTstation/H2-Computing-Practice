@@ -1,0 +1,28 @@
+<!DOCTYPE HTML>
+<html>
+<body>
+
+<table border='1'>
+    <tr>
+        <th>School</th>
+        <th>Name</th>
+        <th>Department</th>
+        <th>Contact</th>
+        <th>Address</th>
+    </tr>
+    
+    {%for i in deps%}
+
+    <tr>
+        <td>{{i[4]}}</td>
+        <td>{{i[1]}}</td>
+        <td>{{i[2]}}</td>
+        <td>{{i[3]}}</td>
+        <td>{{i[5]}}</td>
+    </tr>
+    {%endfor%}
+    
+</table>
+    
+</body>
+</html>

@@ -1,0 +1,13 @@
+CREATE TABLE IF NOT EXISTS School(
+    SchoolCode INTEGER PRIMARY KEY NOT NULL,
+    Name TEXT NOT NULL,
+    Address TEXT NOT NULL
+);
+
+CREATE TABLE IF NOT EXISTS Staff(
+    SchoolCode INTEGER KEY NOT NULL,
+    Name TEXT NOT NULL,
+    Department TEXT NOT NULL,
+    Contact TEXT NOT NULL,
+    FOREIGN KEY (SchoolCode) REFERENCES School(SchoolCode)
+);
