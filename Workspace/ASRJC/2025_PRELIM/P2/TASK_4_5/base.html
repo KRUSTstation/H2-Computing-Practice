@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+</head>
+
+<body>
+    <h1>ASRTech Solutions</h1>
+    <h2>View Transaction Records</h2>
+    
+    <form method="POST">
+        <label>Search by name: </label>
+        <input type="text" id="name" name="name" required>
+        <button type="submit">Search</button>
+    </form>
+    {% if name %}
+        {% if transactions != [] %}
+            <h3>90-day transaction history for {{name}}</h3>
+
+            <table border="1">
+                <tr>
+                    <th>Date and Time</th>
+                    <th>Transaction Type</th>
+                    <th>Transaction Amount</th>
+                </tr>
+
+                {% for transaction in transactions %}
+                    {% if transaction[2] < 0 %}
+                        <tr style="background-color: #FFC300;">
+                    {% else %}
+                        <tr style="background-color: #58D68D;">
+                    {% endif %}
+                            <td>{{transaction[0]}}</td>
+                            <td>{{transaction[1]}}</td>
+                            <td>{{transaction[2]}}</td>
+                        </tr>
+                {% endfor %}
+            </table>
+        {% else %}
+            <h3>no transaction history in the past 90 days for {{name}}</h3>
+        {% endif %}
+    {% endif %}
+</body>
+
+</html>
