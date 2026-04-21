@@ -1,0 +1,1 @@
+SELECT c.name, SUM(s.score) AS score_sum, CASE WHEN SUM(s.score) > 250 THEN "Qualified" ELSE "Not Qualified" END FROM scores s JOIN competitor c ON s.id = c.id GROUP BY s.id ORDER BY score_sum DESC

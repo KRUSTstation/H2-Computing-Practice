@@ -1,0 +1,1 @@
+SELECT c.name, ROUND(AVG(s.score), 2) FROM scores s JOIN competitor c ON s.id = c.id GROUP BY s.id ORDER BY c.name ASC

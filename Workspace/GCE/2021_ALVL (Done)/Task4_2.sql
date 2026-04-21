@@ -1,0 +1,1 @@
+SELECT c.name, s.score FROM scores s JOIN competitor c ON s.id = c.id WHERE s.round = ? ORDER BY s.score DESC

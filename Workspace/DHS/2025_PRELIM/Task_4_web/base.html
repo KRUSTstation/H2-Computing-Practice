@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+
+    <form method="POST">
+        <h2>Station:</h2>
+        <p>
+            <input type="radio" name="station" value="Sit Ups">Sit Ups</option><br>
+            <input type="radio" name="station" value="Standing Broad Jump">Standing Broad Jump</option><br>
+            <input type="radio" name="station" value="Sit And Reach">Sit And Reach</option><br>
+            <input type="radio" name="station" value="Pull-ups/Inclined Pull-ups">Pull-ups/Inclined Pull-ups</option><br>
+            <input type="radio" name="station" value="Shuttle Run">Shuttle Run</option><br>
+            <input type="radio" name="station" value="2.4km Run">2.4km Run</option><br>
+        </p>
+
+        <h2>Order by:</h2>
+        <p>
+            <input type="radio" name="order" value="ascending">Ascending</option><br>
+            <input type="radio" name="order" value="descending">Descending</option><br>
+        </p>
+
+        <button type="submit">Submit</button>
+    </form>
+
+    <h2>NAPFA Results:</h2>
+    {% if station == 'all' %}
+        <table border="1">
+            <tr>
+                <th>Student Name</th>
+                <th>Gender</th>
+                <th>Sit Ups</th>
+                <th>Standing Broad Jump</th>
+                <th>Sit And Reach</th>
+                <th>Pull-ups/Inclined Pull-ups</th>
+                <th>Shuttle Run</th>
+                <th>2.4km Run</th>
+            </tr>
+    {% else %}
+        <table border="1">
+            <tr>
+                <th>Student Name</th>
+                <th>Gender</th>
+                <th>{{station}}</th>
+            </tr>
+    {% endif %}
+            {% for user in users %}
+            <tr>
+                {% for data in user %}
+                    <td>{{data}}</td>
+                {% endfor %}
+            </tr>
+            {% endfor %}
+    </table>
+</body>
+
+</html>
