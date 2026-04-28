@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+
+<form method='POST'>
+    Enter Bus Stop:<input name='bus_stop'><br>
+
+    <button type='submit'>Submit</button>
+</form>
+
+{% if request.method == 'POST' %}
+    {% if data is not iterable or data is string %}
+        {{data}}
+    {% else %}
+        <table>
+            <tr>
+                <th>Bus Service</th>
+                <th>Operator</th>
+            </tr>
+
+            {% for i in data %}
+                <tr>
+                    <td>{{i[0]}}</td>
+                    <td>{{i[1]}}</td>
+                </tr>
+            {% endfor %}
+        </table>
+    {% endif %}
+{% endif %}
+    
+</body>
+    
+</html>
