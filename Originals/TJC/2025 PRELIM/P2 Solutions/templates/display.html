@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Display</title>
+	</head>
+	<body>
+	
+	{% if valid %}
+	<p>Display all the bus services at bus stop {{ bus_stop }}</p><br>
+	<table border=1px>
+		<tr><th>Bus Services</th><th>Operator</th></tr>
+		{% for result in results %}
+		<tr>
+			<td>{{result[0]}}</td>
+			<td>{{result[1]}}</td>
+		</tr>
+		{% endfor %}
+	
+	{% else %}
+	<p>{{ bus_stop }} is an invalid Bus Stop code.</p><br>
+	{% endif %}
+
+		
+	</body>
+</html>
