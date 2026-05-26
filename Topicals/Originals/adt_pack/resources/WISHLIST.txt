@@ -1,0 +1,7 @@
+Wireless Mouse, 45
+Keyboard, 60
+Monitor, 120
+USB Drive, 30
+Laptop, 150
+Printer, 110
+Webcam, 80

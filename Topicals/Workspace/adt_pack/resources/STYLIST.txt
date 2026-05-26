@@ -1,0 +1,6 @@
+S1,Marcus Tan,40
+S2,Amanda Lim,50
+S3,Zhang Wei Ming,50
+S4,Chen Xiao Ting,60
+S5,Kim Min Ji,90
+S6,Park Ji Hoon,100

@@ -1,0 +1,11 @@
+PointID,Address,OpWeekDay,OpStartHr,OpEndHr
+1,Changi Airport T3,0111110,0800,1800
+2,Changi Airport T1,1111111,0000,2400
+3,Changi Airport T2,1111111,0800,1800
+4,303 Orchard Road,0111110,0000,2400
+5,6 Boon Lay Ave,0111110,0800,1800
+6,Bukit Timah Nature Reserve,0111110,0900,2200
+7,Singapore Zoo,0111110,0900,2200
+8,Marina Sands,1111111,0900,2200
+9,Sentosa Hotel W,1111111,0800,1800
+10,Noidea Drive,0111110,0900,2200

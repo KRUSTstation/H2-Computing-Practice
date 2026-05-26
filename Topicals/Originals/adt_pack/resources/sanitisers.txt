@@ -1,0 +1,66 @@
+product_name,active_ingredient,alcohol-based,
+Global Clean Sanitizing Gel,Ethyl alcohol,Yes,13,0.49350926
+State Hand Sanitizer,Methanol,Yes,8,0.909873022
+Quik-Care Gel Waterless Hand Sanitizer,Ethanol,Yes,7,0.882412363
+Soapy Sudz,Triclosan,No,9,0.838975682
+Anti-Bac Foam Soap,Triclosan,No,9,0.427200819
+Acclaim,Triclosan,No,9,0.698215889
+Kimcare Moisturizing Instant Hand Sanitizer,Ethyl alcohol,Yes,13,0.898267473
+Micrell Antibacterial Lotion Soap With Chloroxylenol,Chloroxylenol,No,13,0.648735207
+Hygenipak Plus Anti-Microbial Skin Cleanser,Triclosan,No,9,0.903147954
+Biobase Lotion 70%,Ethyl alcohol,Yes,13,0.657268554
+Manorapid,2-Propanol,Yes,10,0.391877904
+Adasept Liq 0.5%,Triclosan,No,9,0.000392476
+Winning Hands Foaming Antibacterial Hand Cleanser,Triclosan,No,9,0.169171413
+Biotech-Transfer Skin Shield Barrier Lotion,Triclosan,No,9,0.592009023
+Kleenex Instant Hand Sanitizer,Ethyl alcohol,Yes,13,0.757338121
+Vionex Antimicrobial Liquid Soap,Chloroxylenol,No,13,0.683320011
+Germicidal Hand Soap Liq 0.6%,Chloroxylenol,No,13,0.246023407
+Virobex-P,Chloroxylenol,No,13,0.410582422
+Viraguard Hand Antiseptic Hand Wipes,Isopropyl,Yes,9,0.771636552
+Hand Sanitizer,Ethanol,Yes,7,0.9586551
+Bd Alcohol Swabs,Isopropyl,Yes,9,0.94738553
+Bacti-Stat 0.3%,Triclosan,No,9,0.127153187
+Biomaxx Citrus Sanitizer Citrus Hand Sanitizer,Ethyl alcohol,Yes,13,0.821608659
+Antibacterial,Chloroxylenol,No,13,0.964765256
+LEVER 2000 Antibacterial Liquid Soap,Triclosan,No,9,0.92363667
+Contact,Chloroxylenol,No,13,0.635604915
+GOJO Antibacterial Luxury Foam Handwash,Chloroxylenol,No,13,0.022102372
+Savon Antiseptique Milan,Triclosan,No,9,0.99928624
+Digiclean E Foam Hand Soap,Chloroxylenol,No,13,0.807576267
+Epoch Antiseptic Hand Sanitizer,SD Alcohol 40-B,Yes,15,0.476894927
+Zep Tranquil Meadows,Triclosan,No,9,0.637132964
+Alcool À Friction Composé,Ethyl alcohol,Yes,13,0.608261065
+Applaud,Triclosan,No,9,0.481912723
+One Step Wipes With Aloe,Ethyl alcohol,Yes,13,0.174436621
+State Hand Sanitizer With Aloe,Methanol,Yes,8,0.728727059
+Antiseptic Hand Soap Liq 0.3%,Triclosan,No,9,0.636621429
+Isagel,Ethyl alcohol,Yes,13,0.587958577
+Alcare,Ethanol,Yes,7,0.034049917
+Florafree Gel 0.3%,Triclosan,No,9,0.086651445
+Endure 320,Ethyl alcohol,Yes,13,0.807088716
+Asept,Triclosan,No,9,0.574869017
+Bacti-Stat Ae,Triclosan,No,9,0.366966978
+Orasoft 3,Triclosan,No,9,0.269899407
+Crown Antiseptic Hand Soap,Triclosan,No,9,0.921795294
+Valour Antiseptic Hand Cleanser,Triclosan,No,9,0.470846875
+Soft Care Nutra-Germ Antibacterial Lotion Soap,Triclosan,No,9,0.699389641
+Rubbing Alcohol Compound,Ethyl alcohol,Yes,13,0.455299942
+Stoko Spray Instant,Ethyl alcohol,Yes,13,0.22702033
+Antibacterial Lotion Soap,Triclosan,No,9,0.201199682
+Bio-Safe Lotion,Triclosan,No,9,0.031124094
+Provon Medicated Lotion Soap With Triclosan,Triclosan,No,9,0.91971424
+Anti-Bac - Asp 0.5%,Triclosan,No,9,0.579567882
+Digiclean Antibacterial Foam Hand Soap,Triclosan,No,9,0.944427857
+Softcide Handwash,Chloroxylenol,No,13,0.439266558
+Gentle Fresh Defense,Triclosan,No,9,0.785590749
+Isagel Packets,Ethyl alcohol,Yes,13,0.081427062
+Ic-Gel,Ethyl alcohol,Yes,13,0.566030106
+Myo-Ther Antimicrobial Skin Cleanser,Triclosan,No,9,0.25620335
+Antimicrobien 0.3% Triclosan,Triclosan,No,9,0.67433446
+Sani Hands,Isopropanol,Yes,11,0.754755064
+UP-87 Lotion Soap/UP-87 Savon Lotion,Triclosan,No,9,0.676531315
+Simply Botanical Sensation Soothing Skin,Triclosan,No,9,0.09699849
+Keystone Antibacterial Foam Hand Soap,Triclosan,No,9,0.450027665
+Hygenipak Instafoam Anti-Microbial Foaming Skin Cleanser,Triclosan,No,9,0.128694585
+Ecocare 250,Triclosan,No,9,0.098495114
