@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+
+<h1>Submit Lost Form</h1>
+
+<form method="POST">
+    <label>Item Name: </label> <input type="text" name="name">
+    <label>Description: </label> <input type="text" name="description">
+    <label>Category: </label> <input type="text" name="category">
+    <label>Date Lost: </label> <input type="text" name="date">
+    <label>Location: </label> <input type="text" name="location">
+
+    <input type="submit", value="Submit">
+</form>
+
+{% with messages = get_flashed_messages() %}
+    {% if messages %}
+        {% for mes in messages %}
+            {{ mes }}
+        {% endfor %}
+    {% endif %}
+{% endwith %}
+
+</body>
+
+</html>

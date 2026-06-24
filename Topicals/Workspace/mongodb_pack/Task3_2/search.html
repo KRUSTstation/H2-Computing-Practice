@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+
+<h1>Search Lost Item</h1>
+
+<form method="POST">
+    <label>Cateogry</label> <input type="text", name="category">
+    <label>Date Lost</label> <input type="text", name="date">
+
+    <input type="submit", value="Submit">
+</form>
+
+{% if result %}
+    <table>
+        <tr>
+        <th>Item Name</th>
+        <th>Description</th>
+        <th>Category</th>
+        <th>Date Lost</th>
+        <th>Location</th>
+        <th>Recovered</th>
+    </tr>
+    {% for i in result %}
+
+        <tr>
+            <td>{{i['item_name']}}</td>
+            <td>{{i['description']}}</td>
+            <td>{{i['category']}}</td>
+            <td>{{i['date_lost']}}</td>
+            <td>{{i['location']}}</td>
+            <td>{{i['recovered']}}</td>
+        </tr>
+
+    {% endfor %}
+</table>
+{% endif %}
+
+</body>
+
+</html>
