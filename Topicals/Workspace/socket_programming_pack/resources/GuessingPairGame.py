@@ -1,4 +1,5 @@
-#Type your name here: 
+# YOUR ANSWER HERE
+#Type your name here: akshat
 import random
 
 class GuessingPairGame:
@@ -28,7 +29,11 @@ class GuessingPairGame:
     
 	#code the below function
 	def populate_board(self):
-		pass
+		valid_numbers = [random.randint(1, 9) for i in range(4)] * 2
+		for i in range(len(self.board)):
+			for j in range(len(self.board[i])):
+				self.board[i][j] = random.choice(valid_numbers)
+				valid_numbers.pop(valid_numbers.index(self.board[i][j]))
     
 	def set_board(self, values):
 		values = values.split(",") 
@@ -71,8 +76,15 @@ class GuessingPairGame:
     
 	#code the below function
 	def play_move(self, row1, column1, row2, column2):
-		pass
-    
+		if self.board[row1][column1] == self.board[row2][column2]:
+			self.revealed[row1][column1] = self.revealed[row2][column2] = True
+			return self.board[row1][column1]
+		return 0
+	
 	#code the below function  
 	def is_game_over(self):
-		pass
+		for i in self.revealed:
+			for j in i:
+				if not j:
+					return False
+		return True
