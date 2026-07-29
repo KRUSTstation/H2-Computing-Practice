@@ -1,9 +1,38 @@
 def readfile(filename):
-    #copy and paste your readfile function here
+    with open(f'./{filename}') as f:
+        bytes = [i.strip() for i in f.readlines()]
+    
+    return bytes
 	
 	
 def compress(bytes_list, bytes_pattern, byte_rep):
-    #copy and paste your compress function here
+    pattern = []
+    count = 0
+    while count <= len(bytes_pattern) - 2:
+        pattern.append(bytes_pattern[count:count+2])
+        count+=2
+    
+    for i in range(len(bytes_list)):
+        if i > len(bytes_list) - 1:
+            break
+
+        byte = bytes_list[i]
+
+        if byte == pattern[0]:
+            matched = True
+
+            for j in range(1, len(pattern)):
+                if pattern[j] != bytes_list[i+j]:
+                    matched = False
+                    break
+            
+            if matched:
+                for j in range(len(pattern)):
+                    bytes_list.pop(i)
+                
+                bytes_list.insert(i, byte_rep)
+
+    return bytes_list
 	
 
 	
