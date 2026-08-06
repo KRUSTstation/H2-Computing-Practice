@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+
+<h1>Booking Page</h1>
+<br>
+
+<form action="/check" method="POST">
+    Member email address:<input name="email" placeholder="email address"><br>
+    Password:<input name="password" placeholder="Password"><br>
+    <br>
+    Concert: <select name="concert">
+        {% for item in concerts %}
+            <option value="{{ item[0] }}">{{ item[0] }}</option>
+        {% endfor %}
+    </select>
+    Quantity of tickets: <input name="quantity">
+    <button type="submit">Submit</button>
+</form>
+
+</body>
+
+</html>
