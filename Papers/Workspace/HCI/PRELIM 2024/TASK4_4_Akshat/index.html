@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+
+<form action="/" method="POST">
+    Date: <input name="date"><br>
+    <button type="submit">Submit</button> 
+</form>
+
+<table>
+    <tr>
+        <th>Name</th>
+        <th>Departure City</th>
+        <th>Arrival City</th>
+        <th>Seat Category</th>
+    </tr>
+    {% for i in items %}
+        <tr>
+            {% for j in i %}
+                <td>{{j}}</td>
+            {% endfor %}
+        </tr>
+    {% endfor %}
+</table>
+
+</body>
+
+</html>
