@@ -1,0 +1,8 @@
+1,John,34,Male
+2,Amy,29,Female
+3,Ali,41,Male
+4,Priya,25,Female
+5,Wei,52,Male
+6,Nurul,38,Female
+7,David,45,Male
+8,Aisha,31,Female
