@@ -1,0 +1,31 @@
+Student_ID,Student_Name,Student_Class,Student_Gender,Student_Leader,Room_ID
+11,Ng Jun Hao,28/07,M,TRUE,201
+28,Tan Wei Ming,28/07,M,TRUE,201
+4,Bryan Koh Wei Jie,28/04,M,FALSE,203
+7,Rajan s/o Krishnamurthy,28/01,M,TRUE,203
+12,Daryl Lim Zhi Xuan,28/01,M,TRUE,205
+23,Syed Fariz bin Osman,28/04,M,FALSE,205
+5,Muhammad Irfan bin Aziz,28/19,M,FALSE,209
+16,Ahmad Zulfikri bin Hassan,28/22,M,TRUE,209
+8,Phua Zhi Hao,28/25,M,FALSE,209
+6,Kevin Yap Chun Fatt,28/10,M,FALSE,301
+9,Joshua Teo Yong Quan,28/13,M,TRUE,301
+24,Arjun s/o Nair,28/22,M,TRUE,305
+27,Gan Zhi Xiang,28/19,M,FALSE,305
+3,Chen Jing Wei,28/28,M,TRUE,307
+29,Lim Jun Wei,28/25,M,FALSE,307
+15,Goh Kai Xin,28/10,F,TRUE,309
+35,Hannah Teo Shu Hui,28/07,F,FALSE,309
+22,Siti Nurhaliza binte Ismail,28/10,F,FALSE,309
+19,Chloe Ng Xin Yi,28/01,F,TRUE,401
+31,Priya d/o Subramaniam,28/04,F,FALSE,401
+17,Lee Xin Yi,28/13,F,FALSE,405
+33,Nur Aisyah binte Rahman,28/13,F,TRUE,405
+2,Rachel Chong Mei Qi,28/16,F,TRUE,409
+41,Yeo Mei Ling,28/19,F,FALSE,409
+14,Amirah binte Fauzi,28/16,F,FALSE,412
+37,Deepa d/o Chandran,28/22,F,TRUE,412
+44,Vanessa Liang Xiu Ying,28/25,F,FALSE,412
+20,Grace Tan Wei Shan,28/28,F,FALSE,416
+36,Nurul Huda binte Abdullah,28/28,F,FALSE,416
+38,Tay Hui Min,28/16,F,TRUE,416

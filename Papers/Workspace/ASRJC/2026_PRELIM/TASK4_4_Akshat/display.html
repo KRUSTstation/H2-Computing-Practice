@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+<body style="background-color: #98FF98;">
+    <a href='/'>Update</a>
+    <table border='1'>
+        <tr>
+            <th>Name</th>
+            <th>Gender</th>
+            <th>Role</th>
+            <th>Room ID</th>
+        </tr>
+
+        {% for item in items %}
+            <tr>
+                <td>{{item[0]}}</td>
+                <td>{{item[1]}}</td>
+                <td>{{ 'Leader' if item[2] == 1 else 'Member' }}</td>
+                <td>{{item[3]}}</td>
+            </tr>
+        {% endfor %}
+    </table>
+</body>
+    
+</html>

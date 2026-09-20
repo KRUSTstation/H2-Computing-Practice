@@ -1,0 +1,15 @@
+Room_ID,Room_Type
+201,Twin
+203,Twin
+205,Twin
+209,Triple
+301,Twin
+305,Twin
+307,Twin
+309,Triple
+311,Twin
+401,Twin
+405,Twin
+409,Twin
+412,Triple
+416,Triple

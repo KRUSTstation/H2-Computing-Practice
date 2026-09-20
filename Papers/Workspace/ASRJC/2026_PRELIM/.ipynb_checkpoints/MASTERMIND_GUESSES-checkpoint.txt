@@ -1,0 +1,9 @@
+Slot1,Slot2,Slot3,Slot4
+R,G,G,B
+R,G,Y,B
+Y,R,G,B
+G,G,G,G
+B,G,R,G
+R,R,R,R
+G,R,B,G
+Y,Y,Y,Y
