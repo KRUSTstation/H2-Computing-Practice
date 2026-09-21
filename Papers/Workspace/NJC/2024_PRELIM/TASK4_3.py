@@ -28,4 +28,4 @@ def team(team):
 
     return render_template('members.html', team=team, members=sorted(mem, key=lambda x: int(x[4]), reverse=True))
 
-app.run()
+app.run
