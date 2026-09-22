@@ -1,0 +1,6 @@
+Aquila,static/aquila.jpg
+Aries,static/aries.jpg
+Pavo,static/pavo.jpg
+Taurus,static/taurus.jpg
+Ursa,static/ursa.jpg
+Volans,static/volans.jpg

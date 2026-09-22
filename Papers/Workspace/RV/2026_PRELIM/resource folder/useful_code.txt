@@ -1,0 +1,59 @@
+def test1_3():
+    path = create_path("NLNNNNSNNNNLNNN")
+    display_tiles(path)
+
+def test1_4():
+
+    path = create_path("NLNNNNSSNNNLNNN")
+    curr = path
+
+    curr = find_next_ladder(curr)
+    print(curr) # This should output L01
+
+    curr = find_next_snake(curr)
+    print(curr) # This should output S06
+
+    curr = find_next_ladder(curr)
+    print(curr) # This should output L11
+
+def test1_5():
+
+    path = create_path("NLNNNNSNNNNLNNN")
+    curr = path
+
+    curr = move_forward(curr, 2)
+    print(curr) # This should output N02
+
+    curr = move_forward(curr, 6)
+    print(curr) # This should output N08
+
+    curr = move_forward(curr, 20)
+    print(curr) # This should output N14 (the last tile)
+
+def test1_6():
+    path = create_path("NNLNNSNNNLNNSNN")
+    activate_ladder_tiles(path, "L,3,13")
+    display_tiles(path)
+
+def test1_7():
+    path = create_path("NNLNNSNLNLNNSNN")
+    activate_snake(path, "S,3,6")
+    display_tiles(path)
+
+
+print(task3_2(['ABCDE', 'HIJKL', 'MNOPQ', 'RSTUV', 'WXYZF'], 'A'))
+print(task3_2(['IBCDE', 'HAJKL', 'MNOPQ', 'RSTUV', 'WXYZF'], 'J'))
+print(task3_2(['RSTUV', 'IBCDE', 'HLJKA', 'MNOPQ', 'WXYZF'], 'K'))
+print(task3_2(['MNOPQ', 'WXYZF', 'RSTUV', 'HLAKJ', 'IBCDE'], 'L'))
+print(task3_2(['MNOPQ', 'WXYZF', 'RSTUV', 'IBCDE', 'HLJKA'], 'H'))
+print(task3_2(['MNOPQ', 'WXYZF', 'RSTUV', 'IBCDE', 'HLJKZ'], 'A'))
+
+print(task3_3(['ABCDE', 'JIHGF', 'KLMNO', 'TSRQP', 'UVWXY']))
+print(task3_3(['QPONM', 'REDCL', 'SFABK', 'TGHIJ', 'UVWXY']))
+print(task3_3(['QRSTU', 'PEFGV', 'ODAHW', 'NCBIX', 'MLKJY']))
+print(task3_3(['KLOPQ', 'JMNSR', 'IHGTU', 'DEFWV', 'CBAXY']))
+print(task3_3(['KLOPQ', 'JMNSR', 'IHGYU', 'DEFWV', 'CBAXT']))
+print(task3_3(['TVUWX', 'NPQRS', 'OABCY', 'KLMJI', 'EFGHD']))
+print(task3_3(['MLKJI', 'NEFGH', 'ODYXW', 'PCBIV', 'QRSTA']))
+print(task3_3(['MLKJI', 'NEFGH', 'ODYXW', 'PCBIV', 'QRSTU']))
+

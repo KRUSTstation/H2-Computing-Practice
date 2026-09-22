@@ -1,0 +1,10 @@
+S001,Sandra Chelvan,BIO/PHY,Unassigned
+S002,Tan Si Jie,MATH/COMP,Unassigned
+S003,Lim Wei Han,ENG/LIT,Aries
+S004,Chong Mei Xuan,HUM/SS,Pavo
+S005,Teo Jia Min,MATH/COMP,Unassigned
+S006,Ng Chee Peng,SCI/TECH,Ursa
+S007,Low Jia Ying,MATH/COMP,Aquila
+S008,Koh Rui En,ARTS,Unassigned
+S009,Farah Hassan,HUM/SS,Taurus
+S010,Rajesh Kumar,BIO/PHY,Unassigned

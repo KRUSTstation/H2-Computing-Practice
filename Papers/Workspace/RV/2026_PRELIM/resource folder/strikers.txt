@@ -1,0 +1,51 @@
+Player_Name,School,Wins,Draws,Losses,Goal_Attempts,Goals,Goals_Assisted,Yellow_Cards,Red_Cards
+Adrian Blake,Riverdale High,8,2,1,34,16,7,2,0
+Aiden Cross,Riverdale High,7,2,2,30,13,6,1,0
+Alec Morgan,Riverdale High,6,1,3,43,20,5,3,0
+Ashton Reed,Greenwood Secondary,4,4,2,22,8,9,4,0
+Benjamin Hart,Greenwood Secondary,10,1,1,48,25,8,2,0
+Brandon Pierce,Greenwood Secondary,5,3,2,27,10,4,1,0
+Caleb Foster,Hillcrest College,8,2,1,36,15,6,2,0
+Cameron Hayes,Hillcrest College,3,3,4,19,6,5,5,1
+Christian Doyle,Hillcrest College,9,1,1,45,21,7,1,0
+Connor Steele,Hillcrest College,7,2,2,31,12,8,3,0
+Damon Ellis,Lakeside High,6,2,2,25,9,3,2,0
+Daniel Brooks,Lakeside High,2,2,5,17,4,2,6,1
+Darren Quinn,Lakeside High,8,1,2,38,18,5,1,0
+Dominic Shaw,Lakeside High,9,1,1,46,22,6,2,0
+Elliot Ward,Lakeside High,6,3,1,33,14,9,0,0
+Ethan Clarke,Northview Academy,9,0,2,52,30,8,1,0
+Felix Grant,Northview Academy,5,4,1,28,11,10,2,0
+Gabriel Stone,Northview Academy,11,1,0,60,36,12,2,0
+Gavin Turner,Northview Academy,4,4,2,21,7,7,3,0
+Harvey Miles,Eastwood High,5,2,3,24,9,4,2,0
+Hudson Wells,Eastwood High,8,2,1,37,16,5,1,0
+Isaac Bennett,Eastwood High,7,3,1,35,15,11,0,0
+Jack Mercer,Eastwood High,2,3,5,18,5,3,7,1
+Jacob Sinclair,Southgate Secondary,9,1,1,44,19,6,2,0
+Jason Holloway,Southgate Secondary,6,2,2,26,10,5,2,0
+Jordan Knight,Southgate Secondary,8,1,2,39,17,8,3,0
+Julian Rhodes,Southgate Secondary,5,3,2,23,8,6,4,0
+Kai Donovan,Westbridge School,10,1,0,50,28,9,1,0
+Kevin Lawson,Westbridge School,7,2,2,32,13,7,2,0
+Leon Archer,Westbridge School,6,3,1,27,9,6,3,0
+Logan Bryant,Cedar Grove High,9,2,0,47,23,5,2,0
+Lucas Hunter,Cedar Grove High,10,0,1,58,34,19,0,0
+Marcus Hollow,Cedar Grove High,5,2,4,20,6,4,5,1
+Mason Cooper,Cedar Grove High,7,2,2,34,14,8,2,0
+Milo Andersen,Oakridge Secondary,5,3,2,9,10,6,1,0
+Nicholas Drake,Oakridge Secondary,4,3,3,22,7,5,4,0
+Noah Griffin,Oakridge Secondary,9,1,1,49,24,9,2,0
+Oliver Chase,Oakridge Secondary,10,1,0,54,31,11,1,0
+Owen Sullivan,Pinecrest High,6,2,3,29,10,6,3,0
+Parker Collins,Pinecrest High,5,3,2,24,8,5,2,0
+Ryan Fletcher,Pinecrest High,7,2,2,33,13,7,2,0
+Samuel Dixon,Maplewood School,8,2,1,40,18,6,1,0
+Sean Whitaker,Maplewood School,3,3,4,18,5,3,6,1
+Theodore Evans,Maplewood School,9,1,1,45,20,8,2,0
+Tyler Hammond,Riverside Secondary,4,2,5,20,6,4,5,0
+Victor Langley,Riverside Secondary,10,1,0,53,29,10,1,0
+Wesley Porter,Riverside Secondary,8,1,2,38,16,8,2,0
+Xavier Monroe,Springfield High,6,3,2,28,10,6,3,0
+Zachary Cole,Springfield High,11,1,0,62,39,14,2,0
+Zane Holloway,Springfield High,2,2,6,15,3,2,8,2

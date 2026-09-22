@@ -1,0 +1,332 @@
+[
+    {
+      "student_id": "S10001",
+      "full_name": "Aiden Tan Wei Ming",
+      "results": {
+        "H1 GP": "A",
+        "H2 MATH": "A",
+        "H2 CHEM": "A",
+        "H2 PHY": "A",
+        "H2 ECONS": "A"
+      }
+    },
+    {
+      "student_id": "S10002",
+      "full_name": "Priya Nair Suresh",
+      "results": {
+        "H1 GP": "B",
+        "H2 BIO": "A",
+        "H2 CHEM": "A",
+        "H2 MATH": "A",
+        "H1 ECONS": "A"
+      }
+    },
+    {
+      "student_id": "S10003",
+      "full_name": "Muhammad Hafiz bin Roslan",
+      "results": {
+        "H1 GP": "C",
+        "H2 HIST": "B",
+        "H2 ECONS": "A",
+        "H2 GEO": "B",
+        "H1 MATH": "C"
+      }
+    },
+    {
+      "student_id": "S10004",
+      "full_name": "Chloe Lim Xin Yi",
+      "results": {
+        "H1 GP": "A",
+        "H2 ECONS": "A",
+        "H2 MATH": "A",
+        "H2 COMP": "A",
+        "H2 PHY": "A"
+      }
+    },
+    {
+      "student_id": "S10005",
+      "full_name": "Rajan Pillai Krishnan",
+      "results": {
+        "H1 GP": "D",
+        "H2 BIO": "C",
+        "H2 CHEM": "C",
+        "H2 MATH": "D",
+        "H1 PHY": "C"
+      }
+    },
+    {
+      "student_id": "S10006",
+      "full_name": "Natasha Wong Hui Ling",
+      "results": {
+        "H1 GP": "A",
+        "H2 ELIT": "A",
+        "H2 HIST": "A",
+        "H2 GEO": "A",
+        "H2 ECONS": "A"
+      }
+    },
+    {
+      "student_id": "S10007",
+      "full_name": "Darren Ong Boon Kiat",
+      "results": {
+        "H1 GP": "B",
+        "H2 COMP": "A",
+        "H2 MATH": "B",
+        "H2 PHY": "A",
+        "H1 CHEM": "B"
+      }
+    },
+    {
+      "student_id": "S10008",
+      "full_name": "Siti Hajar binte Azman",
+      "results": {
+        "H1 GP": "A",
+        "H2 BIO": "B",
+        "H2 CHEM": "A",
+        "H2 ECONS": "B",
+        "H1 MATH": "A"
+      }
+    },
+    {
+      "student_id": "S10009",
+      "full_name": "Ethan Goh Jun Hao",
+      "results": {
+        "H1 GP": "D",
+        "H2 HIST": "C",
+        "H2 ELIT": "C",
+        "H2 GEO": "C",
+        "H1 ECONS": "D"
+      }
+    },
+    {
+      "student_id": "S10010",
+      "full_name": "Isabelle Cheong Mei Xuan",
+      "results": {
+        "H1 GP": "A",
+        "H2 BIO": "A",
+        "H2 CHEM": "A",
+        "H2 MATH": "A",
+        "H2 PHY": "A"
+      }
+    },
+    {
+      "student_id": "S10011",
+      "full_name": "Kevin Yeo Zhi Xiang",
+      "results": {
+        "H1 GP": "C",
+        "H2 COMP": "B",
+        "H2 MATH": "C",
+        "H2 ECONS": "B",
+        "H1 BIO": "C"
+      }
+    },
+    {
+      "student_id": "S10012",
+      "full_name": "Amelia Raj Kumari",
+      "results": {
+        "H1 GP": "A",
+        "H2 ECONS": "A",
+        "H2 HIST": "A",
+        "H2 ELIT": "A",
+        "H2 GEO": "A"
+      }
+    },
+    {
+      "student_id": "S10013",
+      "full_name": "Brandon Koh Wei Jie",
+      "results": {
+        "H1 GP": "B",
+        "H2 PHY": "B",
+        "H2 MATH": "A",
+        "H2 COMP": "A",
+        "H1 CHEM": "B"
+      }
+    },
+    {
+      "student_id": "S10014",
+      "full_name": "Nurul Izzah binte Hamid",
+      "results": {
+        "H1 GP": "C",
+        "H2 GEO": "C",
+        "H2 HIST": "C",
+        "H2 ECONS": "C",
+        "H1 ELIT": "D"
+      }
+    },
+    {
+      "student_id": "S10015",
+      "full_name": "Lucas Sim Jian Wei",
+      "results": {
+        "H1 GP": "A",
+        "H2 MATH": "A",
+        "H2 PHY": "A",
+        "H2 COMP": "A",
+        "H2 CHEM": "A"
+      }
+    },
+    {
+      "student_id": "S10016",
+      "full_name": "Jasmine Teo Hui Min",
+      "results": {
+        "H1 GP": "A",
+        "H2 BIO": "A",
+        "H2 CHEM": "B",
+        "H2 ECONS": "A",
+        "H1 GEO": "A"
+      }
+    },
+    {
+      "student_id": "S10017",
+      "full_name": "Farid bin Sulaiman",
+      "results": {
+        "H1 GP": "E",
+        "H2 MATH": "D",
+        "H2 PHY": "E",
+        "H2 CHEM": "D",
+        "H1 BIO": "E"
+      }
+    },
+    {
+      "student_id": "S10018",
+      "full_name": "Rachel Ng Shu Fen",
+      "results": {
+        "H1 GP": "A",
+        "H2 ELIT": "A",
+        "H2 HIST": "A",
+        "H2 ECONS": "A",
+        "H1 GEO": "A"
+      }
+    },
+    {
+      "student_id": "S10019",
+      "full_name": "Joel Lau Cheng Hao",
+      "results": {
+        "H1 GP": "B",
+        "H2 ECONS": "B",
+        "H2 MATH": "B",
+        "H2 GEO": "B",
+        "H1 HIST": "B"
+      }
+    },
+    {
+      "student_id": "S10020",
+      "full_name": "Mei Ling Tan Xiu Ying",
+      "results": {
+        "H1 GP": "C",
+        "H2 BIO": "C",
+        "H2 CHEM": "B",
+        "H2 MATH": "C",
+        "H2 PHY": "C"
+      }
+    },
+    {
+      "student_id": "S10021",
+      "full_name": "Alicia Phua Jing Wen",
+      "results": {
+        "H1 GP": "A",
+        "H2 HIST": "A",
+        "H2 ELIT": "A",
+        "H2 GEO": "A",
+        "H1 ECONS": "A"
+      }
+    },
+    {
+      "student_id": "S10022",
+      "full_name": "Zachary Ho Wen Bin",
+      "results": {
+        "H1 GP": "B",
+        "H2 COMP": "A",
+        "H2 MATH": "A",
+        "H2 PHY": "B",
+        "H2 ECONS": "A"
+      }
+    },
+    {
+      "student_id": "S10023",
+      "full_name": "Divya Menon Lakshmi",
+      "results": {
+        "H1 GP": "A",
+        "H2 BIO": "A",
+        "H2 CHEM": "A",
+        "H2 ECONS": "A",
+        "H1 MATH": "A"
+      }
+    },
+    {
+      "student_id": "S10024",
+      "full_name": "Marcus Chew Jia Jun",
+      "results": {
+        "H1 GP": "D",
+        "H2 GEO": "C",
+        "H2 HIST": "C",
+        "H2 ECONS": "C",
+        "H1 ELIT": "C"
+      }
+    },
+    {
+      "student_id": "S10025",
+      "full_name": "Hannah Foo Shi Qi",
+      "results": {
+        "H1 GP": "A",
+        "H2 MATH": "A",
+        "H2 CHEM": "A",
+        "H2 BIO": "A",
+        "H2 ECONS": "A"
+      }
+    },
+    {
+      "student_id": "S10026",
+      "full_name": "Syafiq bin Nordin",
+      "results": {
+        "H1 GP": "C",
+        "H2 PHY": "C",
+        "H2 MATH": "B",
+        "H2 COMP": "B",
+        "H1 CHEM": "C"
+      }
+    },
+    {
+      "student_id": "S10027",
+      "full_name": "Vanessa Kwan Pei Shan",
+      "results": {
+        "H1 GP": "A",
+        "H2 ECONS": "A",
+        "H2 HIST": "A",
+        "H2 GEO": "A",
+        "H2 ELIT": "A"
+      }
+    },
+    {
+      "student_id": "S10028",
+      "full_name": "Timothy Ang Beng Huat",
+      "results": {
+        "H1 GP": "B",
+        "H2 MATH": "B",
+        "H2 PHY": "B",
+        "H2 CHEM": "B",
+        "H1 BIO": "B"
+      }
+    },
+    {
+      "student_id": "S10029",
+      "full_name": "Nur Sabrina binte Ismail",
+      "results": {
+        "H1 GP": "A",
+        "H2 BIO": "A",
+        "H2 ECONS": "A",
+        "H2 GEO": "A",
+        "H1 CHEM": "A"
+      }
+    },
+    {
+      "student_id": "S10030",
+      "full_name": "Elijah Tan Rui Feng",
+      "results": {
+        "H1 GP": "C",
+        "H2 COMP": "B",
+        "H2 MATH": "C",
+        "H2 PHY": "C",
+        "H1 ECONS": "D"
+      }
+    }
+]

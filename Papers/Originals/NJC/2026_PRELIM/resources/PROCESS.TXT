@@ -1,0 +1,47 @@
+process_id,virtual_address,data
+2026,1,Sensor calibration data
+2026,2,Navigation waypoint cache
+16002,11,Encrypted session token
+16002,12,Robot arm position data
+16002,13,Motor controller settings
+2026,3,Competition route map
+2026,4,Obstacle detection buffer
+19,1,User interface preferences
+2026,5,Emergency stop configuration
+19,2,Display brightness settings
+3141,7,Telemetry packet buffer
+3141,8,Wheel encoder readings
+2718,3,Path planning workspace
+2718,9,Camera frame metadata
+4096,16,Shared library page
+4096,17,Runtime stack segment
+8128,4,Audio command buffer
+8128,10,Speech recognition model
+73,2,Network routing table
+73,14,Wireless signal history
+5501,6,Battery health record
+5501,18,Charging cycle log
+9002,5,Access control list
+9002,15,Authentication state
+12007,21,Map tile cache
+12007,22,Landmark feature data
+6400,12,Diagnostic event queue
+6400,25,System performance counters
+42,1,Default configuration block
+42,20,Temporary calculation data
+7777,7,Actuator command history
+7777,19,Safety limit parameters
+13579,2,Image processing workspace
+13579,24,Object tracking results
+24680,8,Motion prediction model
+24680,26,Collision avoidance state
+3333,11,Task scheduling queue
+3333,27,Process priority table
+5050,13,Remote control commands
+5050,28,Operator message buffer
+6060,9,Firmware update metadata
+6060,29,Checksum verification data
+8080,14,Web service request cache
+8080,30,Response serialization buffer
+15001,6,Environmental sensor readings
+15001,31,Historical telemetry summary

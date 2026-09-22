@@ -1,0 +1,22 @@
+S01,Library,12
+S02,Science Block,10
+S03,Sports Hall,8
+S04,Performing Arts Centre,6
+S05,Engineering Workshop,14
+S06,Student Centre,16
+S07,North Residence,10
+S08,Administration Building,8
+S09,Medical Centre,7
+S10,South Residence,11
+S11,Business School,9
+S12,Computing Centre,13
+S13,Arts Building,8
+S14,Central Canteen,15
+S15,East Gate,6
+S16,West Gate,6
+S17,Graduate Centre,9
+S18,Research Complex,12
+S19,Main Auditorium,10
+S20,Aquatic Centre,7
+S21,Innovation Hub,11
+S22,Campus Green,8

@@ -1,0 +1,39 @@
+1,B1003,Anya,loose brake,18.50,0
+2,B1007,Boon,punctured tyre,12.00,0
+3,B1002,Anya,chain replacement,25.00,1
+4,B1006,Chen,gear tuning,15.50,1
+5,B1011,Devi,worn brake pads,22.75,0
+6,B1015,Farid,battery not charging,68.00,0
+7,B1019,Anya,bent wheel rim,34.50,0
+8,B1023,Boon,faulty motor sensor,52.25,0
+9,B1001,Chen,seat adjustment,8.00,1
+10,B1004,Devi,brake cable replacement,19.50,1
+11,B1005,Farid,chain lubrication,7.25,1
+12,B1008,Anya,damaged pedal,16.75,1
+13,B1010,Boon,front light replacement,11.50,1
+14,B1013,Chen,gear cable adjustment,14.25,1
+15,B1017,Devi,tyre replacement,21.00,1
+16,B1021,Farid,loose handlebar,9.75,1
+17,B1027,Gita,cracked mudguard,27.40,0
+18,B1033,Hafiz,damaged chain guard,23.80,0
+19,B1037,Irene,battery diagnostic,45.60,0
+20,B1041,Jun,warped brake disc,38.90,0
+21,B1045,Gita,rear wheel alignment,31.25,0
+22,B1025,Hafiz,bell replacement,6.50,1
+23,B1029,Irene,seat post adjustment,9.20,1
+24,B1032,Jun,reflector replacement,5.75,1
+25,B1036,Kavya,brake inspection,10.00,1
+26,B1039,Kavya,chain tension check,8.50,1
+27,B1043,Kavya,tyre pressure check,4.50,1
+28,B1047,Lim,controller reset,18.20,1
+29,B1014,Lim,front basket repair,13.40,1
+30,B1020,Mei,loose crank arm,24.60,0
+31,B1022,Mei,worn tyre tread,29.90,0
+32,B1024,Nadia,damaged kickstand,17.30,1
+33,B1026,Nadia,motor cable replacement,54.80,0
+34,B1028,Omar,brake lever adjustment,12.90,1
+35,B1030,Omar,chain slipping,20.40,0
+36,B1031,Priya,battery terminal cleaning,16.10,1
+37,B1034,Priya,loose saddle,7.80,1
+38,B1038,Ravi,broken spoke,14.70,0
+39,B1040,Ravi,gear indexing,19.60,1
