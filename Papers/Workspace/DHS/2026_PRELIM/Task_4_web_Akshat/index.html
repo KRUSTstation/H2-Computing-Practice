@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Prelim Results</title>
+</head>
+
+<body>
+
+<form action = '/' method = 'POST'>
+    Filter Student: 
+    <select name = 'name'>
+        {% for name in names %}
+            <option value = "{{name}}">{{name}}</option>
+        {% endfor %}
+    </select>
+
+    <button type='submit'>Submit</button>
+</form>
+
+<table border = '0.5'>
+    <tr>
+        <th>Student ID</th>
+        <th>Student Name</th>
+        <th>Subject 1</th>
+        <th>Grade</th>
+        <th>Subject 2</th>
+        <th>Grade</th>
+        <th>Subject 3</th>
+        <th>Grade</th>
+        <th>Subject 4</th>
+        <th>Grade</th>
+        <th>Subject 5</th>
+        <th>Grade</th>
+    </tr>
+
+    {% for item in data %}
+        <tr>
+            <td>{{ item['student_id'] }}</td>
+            <td>{{ item['full_name'] }}</td>
+            {% for subj, result in item['results'].items() %}
+                <td>{{subj}}</td>
+                <td>{{result}}</td>
+            {% endfor %}
+        </tr>
+    {% endfor %}
+</table>
+    
+</body>
+    
+</html>
