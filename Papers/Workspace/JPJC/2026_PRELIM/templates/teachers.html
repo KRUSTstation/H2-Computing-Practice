@@ -1,0 +1,26 @@
+<!DOCTYPE>
+<html>
+
+<body>
+
+<table border='1'>
+    <tr>
+        {% for house in data.keys() %}
+            <th>{{house}}</th>
+        {% endfor %}
+    </tr>
+
+    <tr>
+        {% for teachers in data.values() %}
+            <td>
+                {% for t in teachers %}
+                        {{t}}<br>
+                {% endfor %}
+            </td>
+        {% endfor %}
+    </tr>
+</table>
+  
+</body>
+    
+</html>

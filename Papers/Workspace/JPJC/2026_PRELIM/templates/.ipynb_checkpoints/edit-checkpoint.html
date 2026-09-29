@@ -1,0 +1,19 @@
+<!DOCTYPE>
+<html>
+
+<body>
+
+<form action='/edit' method='POST'>
+    Name: <input name='name'><br>
+    Department: <input name='department'><br>
+
+    <button type='submit'>Submit</button>
+</form>
+
+{% if message %}
+    <b>{{message}}</b>
+{% endif %}
+  
+</body>
+    
+</html>
