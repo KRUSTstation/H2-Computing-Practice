@@ -1,0 +1,4 @@
+F01,Swimming Pool,15.00
+F02,Badminton Court,10.00
+F03,Gym,8.00
+F04,Squash Court,12.00

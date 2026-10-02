@@ -1,0 +1,4 @@
+M001,Alice Tan,91234567,Premium
+M002,Bob Lim,98765432,Standard
+M003,Carol Ng,87654321,Premium
+M004,David Koh,81234567,Standard

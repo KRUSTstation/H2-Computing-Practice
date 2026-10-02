@@ -1,0 +1,5 @@
+name,health,damage,cooldown
+player,50,8,3
+mosquito,5,2,2
+rat,10,5,3
+crow,20,8,5
