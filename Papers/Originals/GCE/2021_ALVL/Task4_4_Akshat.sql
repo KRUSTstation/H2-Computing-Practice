@@ -1,0 +1,1 @@
+SELECT C.name, SUM(S.score) FROM competitor as C JOIN scores as S ON S.id = C.id GROUP BY C.name ORDER BY SUM(S.score) DESC

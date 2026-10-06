@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+
+<a href='/register'>Workshop Registration</a><br>
+<a href='/report'>Registration Report</a>
+
+<table>
+    <tr>
+        <th>ID</th>
+        <th>Title</th>
+        <th>Category</th>
+        <th>MaxPlaces</th>
+    </tr>
+
+    {% for item in data %}
+        <tr>
+            {% for i in item %}
+                <td>{{i}}</td>
+            {% endfor %}
+        </tr>
+    {% endfor %}
+</table>
+    
+</body>
+    
+</html>
